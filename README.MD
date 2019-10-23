@@ -1,6 +1,6 @@
 Андрейцев О.М. ИДМ 19-01
 =====================
-* [Github профиль] ()
-* [Репозиторий] ()
-* [Отчет] ()
-* [билет] ()
+* [Github профиль](https://github.com/Shprechen/Andreytcev.github.io/)
+* [Репозиторий](https://github.com/Shprechen/Andreytcev.github.io/)
+* [Отчет](https://github.com/Shprechen/Andreytcev.github.io/)
+* [билет](https://github.com/Shprechen/Andreytcev.github.io/)
